@@ -37,3 +37,8 @@ function changeQuote() {
 
 console.log(quotes[0].quote);
 console.log(quotes[0].author);
+// goback
+
+function goBack() {
+  window.history.back();
+}

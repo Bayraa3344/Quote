@@ -54,3 +54,9 @@ body {
   display: block;
   margin-left: 10px;
 }
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
